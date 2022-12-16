@@ -5,8 +5,11 @@
 #####Instruments:
 * `openfold`
 * `omegafold`
-* `mass` - fault. I sent 3 forms to compare pdb's, but I receive no answer
+* `mass`
 
 ##### Results
-Visually structures are same, but I cannot see results of Mass since it did not send any reply **:(**
+1. You can see MASS result in `./mass_result` folder.
+2. You can find visualization images under `./images` folder. 
+
+Visually structures are same, mass results provide the same result.
 
